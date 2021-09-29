@@ -1,0 +1,64 @@
+﻿Workqueue Field Label,SF field
+1st 10 mL EDTA Received Date,BLOOD_RECEIVED_DATE__C
+Access PPI Survey Complete,ACCESS_PPI_SURVEY_COMPLETE__C
+Access PPI Survey Completion Date,ACCESS_PPI_SURVEY_COMPLETION_DATE__C
+Basics PPI Survey Complete,BASIC_SURVEY_COMPLETE__C
+Basics PPI Survey Completion Date,BASIC_SURVEY_COMPLETE_DATE__C
+City,HP_CITY__C
+COPE Dec PPI Survey Completion Date,COPE_DEC_PPI_SURVEY_COMPLETION_DATE__C
+COPE Feb PPI Survey Completion Date,COPE_FEB21_PPI_SURVEY_COMPLETION_DATE__C
+COPE July PPI Survey Completion Date,COPE_JULY_PPI_SURVEY_COMPLETION_DATE__C
+COPE June PPI Survey Completion Date,COPE_JUNE_PPI_SURVEY_COMPLETION_DATE__C
+COPE May PPI Survey Completion Date,COPE_MAY_PPI_SURVEY_COMPLETION_DATE__C
+COPE Nov PPI Survey Completion Date,COPE_NOV_PPI_SURVEY_COMPLETION_DATE__C
+Date of Birth,HP_BIRTHDATE__C
+Date of Death,DATE_OF_DEATH__C
+Date of Retention Eligibility,RETENTION_ELIGIBLE_DATE__C
+Deactivation Date,DEACTIVATION_DATE__C
+Deactivation Status,DEACTIVATED_STATUS__C
+Deceased,DECEASED__C
+Education,EDUCATION__C
+EHR Consent Date,EHR_CONSENT_DATE__C
+EHR Consent Status,EHR_CONSENT__C
+EHR Data Transfer,EHR_TRANSFER_STATUS__C
+Email,HP_EMAIL__C
+Family History PPI Survey Complete,FAMILY_PPI_SURVEY_COMPLETE__C
+Family History PPI Survey Completion Date,FAMILY_PPI_SURVEY_COMPLETION_DATE__C
+Gender Identity,GENDER_IDENTITY__C
+gRoR Consent Date,HP_GROR_CONSENT_DATE__C
+Health PPI Survey Complete,HEALTH_PPI_SURVEY_COMPLETE__C
+Health PPI Survey Completion Date,HEALTH_PPI_SURVEY_COMPLETION_DATE__C
+Language of Primary Consent,HP_LANGUAGE__C
+Lifestyle PPI Survey Complete,LIFESTYLE_PPI_SURVEY_COMPLETE__C
+Lifestyle PPI Survey Completion Date,LIFESTYLE_PPI_SURVEY_COMPLETION_DATE__C
+Med History PPI Survey Complete,HIST_PPI_SURVEY_COMPLETE__C
+Med History PPI Survey Completion Date,HIST_PPI_SURVEY_COMPLETION_DATE__C
+Participant Status,HP_PARTICIPATION_STATUS__C
+Patient Status: No,HP_PATIENT_STATUS_NO__C
+Patient Status: No Access,HP_PATIENT_STATUS_NO_ACCESS__C
+Patient Status: Unknown,HP_PATIENT_STATUS_UNKNOWN__C
+Patient Status: Yes,HP_PATIENT_STATUS_YES__C
+Phone,HP_PHONE__C
+Physical Measurements Completion Date,PM_MEASUREMENTS_COMPLETE_DATE__C
+Physical Measurements Status,PHYSICAL_MEASUREMENT_STATUS__C
+PMI ID,AOU_PARTICIPANT_ID__C
+Race/Ethnicity,ETHNICITY__C
+Required PPI Surveys Complete,REQUIRED_SURVEYS_COMPLETE__C
+Retention Eligible,INRETENTION__C
+Saliva Collection,SALIVA_COLLECTION__C
+Saliva Received Date,SALIVA_DATE__C
+Sex,GENDER__C
+State,HP_STATE__C
+Street Address,HP_STREET_ADDRESS__C
+Summer Minute PPI Survey Completion Date,PPI_21_SUMMER_MINUTE_SURVEY_DATE__C
+Withdrawal Date,WITHDRAW_DATE__C
+ZIP,HP_ZIP__C
+EHR Records Status,EHRSTATUS__C
+EHR Update Timestamp,EHRUPDATETIME__C
+First EHR Receipt Date,FIRSTEHRRECEIPTTIME__C
+EHR Data Availability Status,ISEHRDATAAVAILABLE__C
+Last HP Data Modified Date,LASTMODIFIED__C (HP)
+Most recent EHR Data Receipt Date,LATESTEHRRECEIPTTIME__C
+,RECONTACTMETHOD__C
+when dropping out of 18 month window for prioritization?,RETENTIONELIGIBLETIME__C
+,
